@@ -1,0 +1,87 @@
+html,
+body {
+  background-color: #f0f0f0;
+  height: 100%;
+}
+
+
+header {
+  border: ridge;
+  margin-bottom: 1em;
+}
+
+.pad {
+  padding-bottom: 5px;
+}
+
+.nav-link {
+  color: #000000 !important;
+}
+
+.nav {
+  border: groove;
+  border: outset;
+}
+
+.bordure {
+    border: groove;
+    padding-bottom: 1em;
+    margin-top: 2em;
+}
+
+.pad_dateConsu {
+  padding-bottom: 8em;
+}
+
+.table {
+  border: groove;
+}
+
+#active {
+  border: inset;
+  font-weight: bold;
+}
+
+#logohead {
+  float: left;
+}
+
+.headcolor {
+  background-color: #d5d5d5 !important;
+}
+
+#index {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  height: 100%;
+}
+
+.bg-logo {
+  background-image: url("../img/logo_login");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="text"] {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
