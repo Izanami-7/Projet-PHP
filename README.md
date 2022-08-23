@@ -10,5 +10,13 @@ le médecin dans des listes et en saisissant la date, l'heure, et la durée de l
 Gardez à l'esprit que l'application devra être pratique à utiliser et accessible à des néophytes. Imaginez ce que ça ferait si vous deviez l'utiliser tous les jours.
 
 Pour tester à 100% ce projet, il vous faudra d'abord créer une base de données "cabinet".
-Pour vous faciliter la tâche, dans le dossier "db" il y a un déjà un fichier .sql contenant toutes les tables nécessaires et remplies avec des consultations, médecins et patients.
+Pour vous faciliter la tâche, dans le dossier "db" il y a un déjà un fichier .sql contenant toutes les tables nécessaires et remplies avec des consultations, médecins et patients. Veuillez à bien changer les informations de connexion à la base de données dans la page "fonctions.php" en fonction des informations de votre base de données.
+
 Vous n'aurez donc qu'à importer les tables dans la base "cabinet" que vous avez créé.
+
+----------- Page de Connexion ------------
+
+Nom d'utilisateur : Steven
+MDP : 123
+
+Vous pouvez à tout moment modifiez ces information via le fichier "acceuil.php".
